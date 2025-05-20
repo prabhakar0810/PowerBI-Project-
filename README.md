@@ -7,7 +7,7 @@ All data preprocessing steps have been performed to clean and prepare the datase
 - Normalizing data formats.
 - Merging datasets for comprehensive analysis.
 
-# How to Use
+## How to Use
 - Open the Excel file (not provided here).
 - Use the filter slicer to rank players based on performance.
 - Hover over charts for more detail.
