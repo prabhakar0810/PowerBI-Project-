@@ -8,7 +8,7 @@ All data preprocessing steps have been performed to clean and prepare the datase
 - Merging datasets for comprehensive analysis.
 
 ## How to Use
-- Open the Excel file (not provided here).
+- Open the Excel file .
 - Use the filter slicer to rank players based on performance.
 - Hover over charts for more detail.
 - Analyze performance trends for insights or selection decisions.
